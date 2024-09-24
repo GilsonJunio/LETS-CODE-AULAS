@@ -1,0 +1,1 @@
+curl -X POST localhost:9000/enviar -H 'Content-Type':"application/json" -d '{"nome":"Gilson Junio Sales Andrade","email":"gilsonjunio@quimicojapones.com.br","idade":22}'
